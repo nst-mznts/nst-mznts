@@ -1,4 +1,20 @@
+# Anastasiia Mezentseva
+## Frontend Developer
 ### Hi there 👋
+I am a motivated React frontend developer.
+
+### Explore my projects from this list:
+
+<details><summary>My notes</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | React application for creating, storing and editing notes with the ability to add tags | [my_notes](https://nst-mznts.github.io/my_notes/) | [my_notes](https://github.com/nst-mznts/my_notes) | React, JS, HTML5, SASS |
+  
+  ![project image](https://github.com/nst-mznts/my_notes/blob/dev/public/My_notes.png)
+  
+</details>
 
 <!--
 **nst-mznts/nst-mznts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
