@@ -27,9 +27,9 @@ I am a motivated React frontend developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | React application for creating, storing and editing notes with the ability to add tags | [my_notes](https://nst-mznts.github.io/my_notes/) | [my_notes](https://github.com/nst-mznts/my_notes) | React, JS, HTML5, SASS |
+  | A game against AI with three difficulty levels and playing field sizes. There is also a game mode against another person | temporarily not available | [tic_tac_toe](https://github.com/nst-mznts/tic_tac_toe) | React, JS, HTML5, SASS |
   
-  ![project image](https://github.com/nst-mznts/my_notes/blob/dev/public/My_notes.png)
+  ![project image](https://github.com/nst-mznts/tic_tac_toe/blob/dev/public/Tic_Tac_Toe.png)
   
 </details>
 
@@ -38,7 +38,7 @@ I am a motivated React frontend developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | VanillaJS memory game with interactive learning modes and statistic | [English_for_kids](https://nst-mznts.github.io/English_for_kids/) | [English_for_kids](https://github.com/nst-mznts/English_for_kids) | JS, WebPack, HTML5, CSS |
+  | A memory game with interactive learning modes and statistic | [English_for_kids](https://nst-mznts.github.io/English_for_kids/) | [English_for_kids](https://github.com/nst-mznts/English_for_kids) | JS, WebPack, HTML5, SASS |
   
   ![project image](https://github.com/nst-mznts/English_for_kids/blob/project/src/assets/img/English_for_kids.jpg)
   
