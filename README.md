@@ -27,7 +27,7 @@ I am a motivated React frontend developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | A game against AI with three difficulty levels and playing field sizes. There is also a game mode against another person | temporarily not available | [tic_tac_toe](https://github.com/nst-mznts/tic_tac_toe) | React, JS, HTML5, SASS |
+  | A game against AI with three difficulty levels and playing field sizes. There is also a game mode against another person | [tic_tac_toe](https://nst-mznts.github.io/tic_tac_toe/) | [tic_tac_toe](https://github.com/nst-mznts/tic_tac_toe) | React, JS, HTML5, SASS |
   
   ![project image](https://github.com/nst-mznts/tic_tac_toe/blob/dev/public/Tic_Tac_Toe.png)
   
