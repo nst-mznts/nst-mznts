@@ -2,7 +2,9 @@
 ## Frontend Developer
 ### Hi there 👋
 I am a motivated React frontend developer.
+
 📍 Samobor, Croatia
+
 📫 How to reach me:
 - E-mail: [a.mezentseva](mailto:a.mezentseva@hotmail.com)
 - Telegram: [@Nastasien](https://t.me/Nastasien)
