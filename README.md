@@ -33,6 +33,17 @@ I am a motivated React frontend developer.
   
 </details>
 
+<details><summary>📊 Project Management Application</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | React project management application | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, JS, HTML5, SASS |
+  
+  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/develop/public/Project_Management_App.png)
+  
+</details>
+
 <details><summary>🎮 English for kids</summary>
   <br>
 
