@@ -9,6 +9,17 @@ I am a motivated React frontend developer.
 
 ### Explore my projects from this list:
 
+<details><summary>🕓 Analogue clock</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | An analogue clock that shows the current time | [analogue_clock](https://nst-mznts.github.io/analogue_clock/) | [analogue_clock](https://github.com/nst-mznts/analogue_clock) | JS, HTML5, CSS3 |
+  
+  ![project image](https://github.com/nst-mznts/analogue_clock/blob/main/clock.png)
+  
+</details>
+
 <details><summary>📝 My notes</summary>
   <br>
 
