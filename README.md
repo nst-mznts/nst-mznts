@@ -3,6 +3,8 @@
 ### Hi there 👋
 I am a motivated React frontend developer.
 
+📍 Samobor, Croatia
+
 📫 How to reach me:
 - E-mail: [a.mezentseva](mailto:a.mezentseva@hotmail.com)
 - Telegram: [@Nastasien](https://t.me/Nastasien)
@@ -61,6 +63,17 @@ I am a motivated React frontend developer.
   | A memory game with interactive learning modes and statistic | [English_for_kids](https://nst-mznts.github.io/English_for_kids/) | [English_for_kids](https://github.com/nst-mznts/English_for_kids) | JS, WebPack, HTML5, SASS |
   
   ![project image](https://github.com/nst-mznts/English_for_kids/blob/project/src/assets/img/English_for_kids.jpg)
+  
+</details>
+
+<details><summary>💻 Landing page</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | Responsive landing page layout using Vanilla JS, HTML and CSS | [landing_page](https://nst-mznts.github.io/landing_page/) | [landing_page](https://github.com/nst-mznts/landing_page/tree/develop) | JS, HTML5, CSS3 |
+  
+  ![project image](https://github.com/nst-mznts/landing_page/blob/develop/landing_page.png)
   
 </details>
 
