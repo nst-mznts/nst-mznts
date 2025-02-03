@@ -9,6 +9,7 @@ I am a motivated React frontend developer.
 - E-mail: [a.mezentseva](mailto:a.mezentseva@hotmail.com)
 - Telegram: [@Nastasien](https://t.me/Nastasien)
 
+
 ### Explore my projects from this list:
 
 <details><summary>🕓 Analogue clock</summary>
@@ -51,7 +52,7 @@ I am a motivated React frontend developer.
   | :---: | :---: | :---: | :---: |
   | React project management application | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, JS, HTML5, SASS |
   
-  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/develop/public/Project_Management_App.png)
+  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
   
 </details>
 
@@ -77,13 +78,18 @@ I am a motivated React frontend developer.
   
 </details>
 
+
+🔭 I’m currently working on: Project Management Application
+
+🌱 I’m currently learning: TypeScript
+
 <!--
 **nst-mznts/nst-mznts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Project Management Application
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
