@@ -12,14 +12,14 @@ I am a motivated React frontend developer.
 
 ### Explore my projects from this list:
 
-<details><summary>🕓 Analogue clock</summary>
+<details><summary>📊 Project Management Application (in development)</summary>
   <br>
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | An analogue clock that shows the current time | [analogue_clock](https://nst-mznts.github.io/analogue_clock/) | [analogue_clock](https://github.com/nst-mznts/analogue_clock) | JS, HTML5, CSS3 |
+  | React project management application | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, JS, HTML5, SASS |
   
-  ![project image](https://github.com/nst-mznts/analogue_clock/blob/main/clock.png)
+  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
   
 </details>
 
@@ -45,17 +45,6 @@ I am a motivated React frontend developer.
   
 </details>
 
-<details><summary>📊 Project Management Application</summary>
-  <br>
-
-  | Description | Deployed app | Repository | Technologies stack |
-  | :---: | :---: | :---: | :---: |
-  | React project management application | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, JS, HTML5, SASS |
-  
-  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
-  
-</details>
-
 <details><summary>🎮 English for kids</summary>
   <br>
 
@@ -64,6 +53,17 @@ I am a motivated React frontend developer.
   | A memory game with interactive learning modes and statistic | [English_for_kids](https://nst-mznts.github.io/English_for_kids/) | [English_for_kids](https://github.com/nst-mznts/English_for_kids) | JS, WebPack, HTML5, SASS |
   
   ![project image](https://github.com/nst-mznts/English_for_kids/blob/project/src/assets/img/English_for_kids.jpg)
+  
+</details>
+
+<details><summary>🕓 Analogue clock</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | An analogue clock that shows the current time | [analogue_clock](https://nst-mznts.github.io/analogue_clock/) | [analogue_clock](https://github.com/nst-mznts/analogue_clock) | JS, HTML5, CSS3 |
+  
+  ![project image](https://github.com/nst-mznts/analogue_clock/blob/main/clock.png)
   
 </details>
 
@@ -79,7 +79,7 @@ I am a motivated React frontend developer.
 </details>
 
 
-🔭 I’m currently working on: Project Management Application
+🔭 I’m currently working on: [Project Management Application](https://github.com/nst-mznts/Project-Management-App)
 
 🌱 I’m currently learning: TypeScript
 
