@@ -17,7 +17,7 @@ I am a motivated React frontend developer.
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | React project management application | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
+  | Kanban board with drag-and-drop functionality and multi-language support (Russian and English) | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
   
   ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
   
