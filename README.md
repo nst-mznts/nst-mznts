@@ -1,7 +1,17 @@
 # Anastasiia Mezentseva
 ## Frontend Developer
-### Hi there 👋
-I am a motivated React frontend developer.
+### 👋 Hi there
+I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, CSS, SASS, JavaScript, React, and Redux. I love building clean and responsive websites. I have worked on projects like landing pages, React apps, and even a full-stack application. I’m good at creating modern designs and solving problems fast.
+
+### 🛠️ My stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 📍 Samobor, Croatia
 
