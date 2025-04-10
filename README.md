@@ -39,7 +39,7 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | React application for creating, storing and editing notes with the ability to add tags | [my_notes](https://nst-mznts.github.io/my_notes/) | [my_notes](https://github.com/nst-mznts/my_notes) | React, JS, HTML5, SASS |
+  | This is a React application for creating, storing and editing notes. Additionally, users can add tags to notes and use the search bar to filter notes based on keywords. | [my_notes](https://nst-mznts.github.io/my_notes/) | [my_notes](https://github.com/nst-mznts/my_notes) | React, JS, HTML5, SASS |
   
   ![project image](https://github.com/nst-mznts/my_notes/blob/dev/public/my_notes_large.png)
   
