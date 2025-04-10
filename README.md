@@ -9,6 +9,7 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -40,7 +41,7 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
   | :---: | :---: | :---: | :---: |
   | React application for creating, storing and editing notes with the ability to add tags | [my_notes](https://nst-mznts.github.io/my_notes/) | [my_notes](https://github.com/nst-mznts/my_notes) | React, JS, HTML5, SASS |
   
-  ![project image](https://github.com/nst-mznts/my_notes/blob/dev/public/My_notes.png)
+  ![project image](https://github.com/nst-mznts/my_notes/blob/dev/public/my_notes_large.png)
   
 </details>
 
