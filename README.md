@@ -1,7 +1,7 @@
 # Anastasiia Mezentseva
 ## Frontend Developer
 ### 👋 Hi there
-I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, CSS, SASS, JavaScript, React, and Redux. I love building clean and responsive websites. I have worked on projects like landing pages, React apps, and even a full-stack application. I’m good at creating modern designs and solving problems fast.
+I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, CSS, SASS, JavaScript, React, and Redux. I love building clean and responsive websites. I have worked on projects like landing pages, React apps, and even a full-stack application. I’m based in Croatia and available for freelance work. Let’s create something great together!
 
 ### 🛠️ My stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -27,7 +27,7 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | Kanban board with drag-and-drop functionality and multi-language support (Russian and English) | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
+  | A full-stack Kanban board with user authentication, drag-and-drop functionality and multi-language support (Russian and English) | temporarily not available | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, REST API, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
   
   ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
   
