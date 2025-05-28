@@ -23,7 +23,7 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
 ### Explore my projects from this list:
 
-<details><summary>📊 Project Management Application (in development)</summary>
+<details><summary>📊 Project Management Application</summary>
   <br>
 
   | Description | Deployed app | Repository | Technologies stack |
@@ -90,7 +90,6 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 </details>
 
 
-🔭 I’m currently working on: [Project Management Application](https://github.com/nst-mznts/Project-Management-App)
 
 🌱 I’m currently learning: TypeScript
 
