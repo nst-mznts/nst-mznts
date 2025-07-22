@@ -28,9 +28,9 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | A full-stack Kanban board with user authentication, drag-and-drop functionality and multi-language support (Russian and English) | [Project-Management-App](https://pmapp.rominas.keenetic.pro/) | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, REST API, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
+  | A full-stack Kanban board with user authentication, drag-and-drop functionality and multi-language support (Russian and English) | [Project-Management-App](https://pmapp.rominas.keenetic.pro/) | [Project-Management-App](https://github.com/nst-mznts/Project-Management-App) | React, Redux, TypeScript, JS, HTML5, SASS, Node.js, Express, MongoDB |
   
-  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App.png)
+  ![project image](https://github.com/nst-mznts/Project-Management-App/blob/frontend/public/Project_Management_App_medium.png)
   
 </details>
 
