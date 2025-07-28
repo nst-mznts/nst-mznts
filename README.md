@@ -23,6 +23,17 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
 ### Explore my projects from this list:
 
+<details><summary>🎓 Courses App</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | This is a React application for selecting training courses. It features user authentication, role-based access (admin and regular users), and search functionality. Admins can manage courses, while regular users can view course details. All data is fetched from the backend and managed with Redux. | currently unavailable | [Courses_App](https://github.com/nst-mznts/Courses_App) | React, Redux, TypeScript, JS, HTML5, SASS |
+  
+  ![project image](https://github.com/nst-mznts/Courses_App/blob/main/public/Courses_App.png)
+  
+</details>
+
 <details><summary>📊 Project Management Application</summary>
   <br>
 
