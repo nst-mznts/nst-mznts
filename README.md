@@ -1,7 +1,7 @@
 # Anastasiia Mezentseva
 ## Frontend Developer
 ### 👋 Hi there
-I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, CSS, SASS, JavaScript, React, and Redux. I love building clean and responsive websites. I have worked on projects like landing pages, React apps, and even a full-stack application. I’m based in Croatia and available for freelance work. Let’s create something great together!
+I’m a Frontend developer with 2+ years of experience. I’m skilled in HTML5, CSS3, SASS, JavaScript, React, and Redux. I love building clean and responsive websites. I have worked on projects like landing pages, React apps, and even a full-stack application. I’m based in Croatia and available for freelance work. Let’s create something great together!
 
 ### 🛠️ My stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -11,6 +11,9 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
