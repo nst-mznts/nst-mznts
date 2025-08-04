@@ -13,6 +13,9 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Three.js](https://img.shields.io/badge/threejs-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 
 📍 Samobor, Croatia
 
@@ -22,6 +25,17 @@ I’m a Frontend developer with 3+ years of experience. I’m skilled in HTML, C
 
 
 ### Explore my projects from this list:
+
+<details><summary>🌌 3D Objects Visualizer</summary>
+  <br>
+
+  | Description | Deployed app | Repository | Technologies stack |
+  | :---: | :---: | :---: | :---: |
+  | This is a Three.js-based web application for visualizing interactive 3D objects in a retro wave-styled scene. It features a starry sky with round, static stars, a neon-gradient 3D mesh (e.g., torus knot, sphere, cube), and a control panel for customizing the scene. Users can switch shapes, change color presets, adjust scale, and toggle visibility, all rendered in a WebGL canvas with a synthwave aesthetic. | temporarily unavailable | [3D Objects](https://github.com/nst-mznts/3D_Objects) | Three.js, JavaScript, CSS3, Vite, HTML5, ESLint, Prettier |
+  
+  ![project image](https://github.com/nst-mznts/3D_Objects/blob/main/public/3D_Objects.png)
+  
+</details>
 
 <details><summary>🎓 Courses App</summary>
   <br>
