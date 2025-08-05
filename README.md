@@ -34,7 +34,7 @@ I’m a Frontend developer with 2+ years of experience. I’m skilled in HTML5, 
 
   | Description | Deployed app | Repository | Technologies stack |
   | :---: | :---: | :---: | :---: |
-  | This is a Three.js-based web application for visualizing interactive 3D objects in a retro wave-styled scene. It features a starry sky with round, static stars, a neon-gradient 3D mesh (e.g., torus knot, sphere, cube), and a control panel for customizing the scene. Users can switch shapes, change color presets, adjust scale, and toggle visibility, all rendered in a WebGL canvas with a synthwave aesthetic. | temporarily unavailable | [3D Objects](https://github.com/nst-mznts/3D_Objects) | Three.js, JavaScript, CSS3, Vite, HTML5, ESLint, Prettier |
+  | This is a Three.js-based web application for visualizing interactive 3D objects in a retro wave-styled scene. It features a starry sky with round, static stars, a neon-gradient 3D mesh (e.g., torus knot, sphere, cube), and a control panel for customizing the scene. Users can switch shapes, change color presets, adjust scale, and toggle visibility, all rendered in a WebGL canvas with a synthwave aesthetic. | [3D Objects](https://nst-mznts.github.io/3D_Objects/) | [3D Objects](https://github.com/nst-mznts/3D_Objects) | Three.js, JavaScript, CSS3, Vite, HTML5, ESLint, Prettier |
   
   ![project image](https://github.com/nst-mznts/3D_Objects/blob/main/public/3D_Objects.png)
   
