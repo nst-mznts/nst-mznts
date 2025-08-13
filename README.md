@@ -26,6 +26,7 @@ I’m a Frontend developer with 2+ years of experience. I’m skilled in HTML5, 
 - E-mail: [a.mezentseva](mailto:a.mezentseva@hotmail.com)
 - Telegram: [@Nastasien](https://t.me/Nastasien)
 
+🌱 I’m currently learning: Vue.js
 
 ### Explore my projects from this list:
 
@@ -117,9 +118,6 @@ I’m a Frontend developer with 2+ years of experience. I’m skilled in HTML5, 
   
 </details>
 
-
-
-🌱 I’m currently learning: TypeScript
 
 <!--
 **nst-mznts/nst-mznts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
